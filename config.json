@@ -1,0 +1,5 @@
+   {
+   	"api": "https://your-server-url/",
+   	"github_oauth_id": "your-oauth-app-client-id",
+   	"fallback_registries": ["https://github.com/upliftgames/wally-index"]
+   }
