@@ -1,0 +1,6 @@
+
+   {
+   	"api": "http://localhost:8000/",
+   	"github_oauth_id": "Ov23liU6XZwRwUYBKkXa",
+   	"fallback_registries": ["https://github.com/upliftgames/wally-index"]
+   }
